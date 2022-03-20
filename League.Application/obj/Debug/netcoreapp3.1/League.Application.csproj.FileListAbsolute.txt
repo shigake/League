@@ -1,0 +1,15 @@
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Application.deps.json
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Application.dll
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Application.pdb
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.csproj.AssemblyReference.cache
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.AssemblyInfo.cs
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.dll
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.pdb
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Domain.dll
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Domain.pdb
+C:\Users\shiga\source\repos\League\League.Application\obj\Debug\netcoreapp3.1\League.Application.csproj.CopyComplete
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Service.dll
+C:\Users\shiga\source\repos\League\League.Application\bin\Debug\netcoreapp3.1\League.Service.pdb

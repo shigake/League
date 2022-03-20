@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZ7R3CeNpskufHp69sClQNnXOBaLAW754fW85J/wtzUVsTUV32LQwfmDxfBhzlA+LghDxtKhyCfMlrxQzI+Ozg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiga\\source\\repos\\League\\League.Api\\League.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiga\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\shiga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\shiga\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\shiga\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\shiga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\shiga\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

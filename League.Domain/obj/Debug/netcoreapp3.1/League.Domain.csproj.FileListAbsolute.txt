@@ -1,0 +1,10 @@
+C:\Users\shiga\source\repos\League\League.Domain\bin\Debug\netcoreapp3.1\League.Domain.deps.json
+C:\Users\shiga\source\repos\League\League.Domain\bin\Debug\netcoreapp3.1\League.Domain.dll
+C:\Users\shiga\source\repos\League\League.Domain\bin\Debug\netcoreapp3.1\League.Domain.pdb
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.csproj.AssemblyReference.cache
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.AssemblyInfo.cs
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.dll
+C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.pdb

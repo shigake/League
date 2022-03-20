@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+wkCXl7coalxtCMoUZ3r+cVlArWKckQicctWuIgX7gQDK8yxelKz9hmi9buwn4sE0u8jDhOdzIkv5jpAhE0oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
