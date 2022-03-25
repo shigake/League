@@ -1,0 +1,9 @@
+{
+  "RiotConfiguration": {
+    "Summoner": "/lol/summoner/v4/summoners/by-name/{0}",
+    "Historic": "/lol/match/v5/matches/by-puuid/{0}/ids",
+    "PrefixBrasil": "https://br1.api.riotgames.com",
+    "PrefixAmericas": "https://americas.api.riotgames.com",
+    "Token": ""
+  }
+}
