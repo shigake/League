@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\shiga\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiga\\source\\repos\\League\\League.Infra\\League.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\League\\League.Infra\\League.Infra.csproj",
       "projectName": "League.Infra",
-      "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Infra\\League.Infra.csproj",
-      "packagesPath": "C:\\Users\\shiga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Infra\\obj\\",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\League\\League.Infra\\League.Infra.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\League\\League.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

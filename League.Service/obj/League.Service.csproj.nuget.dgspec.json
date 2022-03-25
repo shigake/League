@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\League.Service.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\League\\League.Service\\League.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj": {
+    "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\League.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\League.Domain.csproj",
         "projectName": "League.Domain",
-        "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj",
-        "packagesPath": "C:\\Users\\shiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\League.Domain.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\League.Service.csproj": {
+    "C:\\Users\\Daniel\\Documents\\League\\League.Service\\League.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\League.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\League\\League.Service\\League.Service.csproj",
         "projectName": "League.Service",
-        "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\League.Service.csproj",
-        "packagesPath": "C:\\Users\\shiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\League\\League.Service\\League.Service.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\League\\League.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj": {
-                "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj"
+              "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\League.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\League.Domain.csproj"
               }
             }
           }
@@ -128,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

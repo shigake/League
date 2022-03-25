@@ -38,7 +38,8 @@ namespace League.Api
             services.Configure<RiotConfiguration>(Configuration.GetSection("RiotConfiguration"));
             services.AddScoped<ISummonerService, SummonerService>();
             services.AddScoped<ISummonerApplication, SummonerApplication>();
-
+            services.AddScoped<IHistoricApplication, HistoricApplication>();
+            services.AddScoped<IHistoricService, HistoricService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

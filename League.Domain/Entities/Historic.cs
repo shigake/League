@@ -6,5 +6,6 @@ namespace League.Domain.Entities
 {
     public class Historic
     {
+        public List <string> lista { get; set; }
     }
 }

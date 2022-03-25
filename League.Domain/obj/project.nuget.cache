@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h+wkCXl7coalxtCMoUZ3r+cVlArWKckQicctWuIgX7gQDK8yxelKz9hmi9buwn4sE0u8jDhOdzIkv5jpAhE0oA==",
+  "dgSpecHash": "dnmI4qd/S0p+wkHmI9tMx42Wl3l7wcDkPdIIRQQ7qmBq7Un1g5HuF8dH16EOsaQJ/ku4z2BXdDiGSfx+tI+V4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\League\\League.Domain\\League.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shiga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Daniel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

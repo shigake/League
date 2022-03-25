@@ -1,8 +1,9 @@
 {
   "RiotConfiguration": {
     "Summoner": "/lol/summoner/v4/summoners/by-name/{0}",
+    "Historic": "/lol/match/v5/matches/by-puuid/{0}/ids",
     "PrefixBrasil": "https://br1.api.riotgames.com",
-    "PrefixAmericas": "",
-    "Token": "RGAPI-fa30196c-aa32-48f5-af86-59774ffa37c5"
+    "PrefixAmericas": "https://americas.api.riotgames.com",
+    "Token": "RGAPI-2202eee4-52f7-46a1-be84-6197619cee8f"
   }
 }

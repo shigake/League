@@ -8,3 +8,13 @@ C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.
 C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.csproj.CoreCompileInputs.cache
 C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.dll
 C:\Users\shiga\source\repos\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.pdb
+C:\Users\Daniel\Documents\League\League.Domain\bin\Debug\netcoreapp3.1\League.Domain.deps.json
+C:\Users\Daniel\Documents\League\League.Domain\bin\Debug\netcoreapp3.1\League.Domain.dll
+C:\Users\Daniel\Documents\League\League.Domain\bin\Debug\netcoreapp3.1\League.Domain.pdb
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.AssemblyInfo.cs
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.dll
+C:\Users\Daniel\Documents\League\League.Domain\obj\Debug\netcoreapp3.1\League.Domain.pdb
