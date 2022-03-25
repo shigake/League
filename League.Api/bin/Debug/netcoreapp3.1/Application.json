@@ -1,8 +1,0 @@
-{
-  "RiotConfiguration": {
-    "Summoner": "/lol/summoner/v4/summoners/by-name/{0}",
-    "PrefixBrasil": "https://br1.api.riotgames.com",
-    "PrefixAmericas": "",
-    "Token": "RGAPI-fa30196c-aa32-48f5-af86-59774ffa37c5"
-  }
-}
