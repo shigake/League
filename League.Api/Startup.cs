@@ -40,6 +40,8 @@ namespace League.Api
             services.AddScoped<ISummonerApplication, SummonerApplication>();
             services.AddScoped<IHistoricApplication, HistoricApplication>();
             services.AddScoped<IHistoricService, HistoricService>();
+            services.AddScoped<IHistoricDetailsApplication, HistoricDetailsApplication>();
+            services.AddScoped<IHistoricDetailService, HistoricDetailService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

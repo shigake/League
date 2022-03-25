@@ -11,5 +11,6 @@ namespace League.Domain.Commons
         public string PrefixAmericas { get; set; }
         public string Token { get; set; }
         public string Historic { get; set; }
+        public string HistoricDetails { get; set; }
     }
 }

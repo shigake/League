@@ -29,5 +29,20 @@ namespace League.Api.Controllers
                 return BadRequest(e.Message);
             }
         }
+
+        [HttpGet]
+        [Route("getSummonerWithMatchDetails")]
+        public async Task<IActionResult> GetSummonerWithMatchDetails(string summonerName)
+        {
+            try
+            {
+                var summoner = await _summonerApplication.GetSummoner(summonerName);
+                return Ok(summoner);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
     }
 }

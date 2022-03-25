@@ -9,5 +9,6 @@ namespace League.Application.Interfaces
     public interface ISummonerApplication
     {
         Task<Summoner> GetSummoner(string summonerName);
+        Task<Summoner> GetSummonerWithMatchDetails(string summonerName);
     }
 }

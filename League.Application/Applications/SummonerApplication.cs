@@ -10,10 +10,17 @@ namespace League.Application.Applications
 {
     public class SummonerApplication : ISummonerApplication
     {
-        ISummonerService _summonerService;
-        public SummonerApplication(ISummonerService summonerService)
+        private readonly ISummonerService _summonerService;
+        private readonly IHistoricService _historicService;
+        private readonly IHistoricDetailService _historicDetailsService;
+
+        public SummonerApplication(ISummonerService summonerService, 
+                                   IHistoricService historicService,
+                                   IHistoricDetailService historicDetailsService)
         {
             _summonerService = summonerService;
+            _historicService = historicService;
+            _historicDetailsService = historicDetailsService;
         }
         public async Task<Summoner> GetSummoner(string summonerName)
         {
@@ -26,7 +33,13 @@ namespace League.Application.Applications
             {
                 throw;
             }
-            
         }
+        public async Task<Summoner> GetSummonerWithMatchDetails(string summonerName)
+        {
+            //arrumar
+            return new Summoner();
+        }
+
+
     }
 }
