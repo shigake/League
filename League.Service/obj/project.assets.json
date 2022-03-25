@@ -252,11 +252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\League.Service.csproj",
+      "projectUniqueName": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Service\\League.Service.csproj",
       "projectName": "League.Service",
-      "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\League.Service.csproj",
+      "projectPath": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Service\\League.Service.csproj",
       "packagesPath": "C:\\Users\\shiga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Service\\obj\\",
+      "outputPath": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -273,8 +273,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj": {
-              "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Domain\\League.Domain.csproj"
+            "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Domain\\League.Domain.csproj": {
+              "projectPath": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Domain\\League.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PX8zJnoVDMNkeD6pUiKYqP8JbVBMUTGuyF7kfN/OGGGwdDrwFId4lrgRrIN4NVlK+9g3ZAXeQ8NVr8H3A9F99Q==",
+  "dgSpecHash": "+yHaG+y+9yZmLJiGbiZG1Cz+64oOZGGkMgRLA8j6WGM7e1u7eeQpAq3e4IBfldryRjgEbfQhRLQs2RueXKwjnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shiga\\source\\repos\\League\\League.Application\\League.Application.csproj",
+  "projectFilePath": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Application\\League.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shiga\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\shiga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

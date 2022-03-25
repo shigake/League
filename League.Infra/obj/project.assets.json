@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiga\\source\\repos\\League\\League.Infra\\League.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Infra\\League.Infra.csproj",
       "projectName": "League.Infra",
-      "projectPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Infra\\League.Infra.csproj",
+      "projectPath": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Infra\\League.Infra.csproj",
       "packagesPath": "C:\\Users\\shiga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiga\\source\\repos\\League\\League.Infra\\obj\\",
+      "outputPath": "C:\\Users\\shiga\\source\\privaterepos\\League\\League.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
