@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Presentation", "01-Presentation", "{544A4ECA-5DA8-4A7D-BB44-1A859DA2EFF0}"
 EndProject
@@ -13,15 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Domain", "04-Domain", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Infra", "05-Infra", "{04584517-0ABC-452D-A7DD-ACD16E943DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League.Application", "League.Application\League.Application.csproj", "{27E762A6-5EF5-42DE-A2B0-69315A1A3D4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "League.Application", "League.Application\League.Application.csproj", "{27E762A6-5EF5-42DE-A2B0-69315A1A3D4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League.Service", "League.Service\League.Service.csproj", "{3593B9CB-4AD9-4126-BDAB-3B3D1F769744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "League.Service", "League.Service\League.Service.csproj", "{3593B9CB-4AD9-4126-BDAB-3B3D1F769744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League.Domain", "League.Domain\League.Domain.csproj", "{935CBEF5-8FE1-46C4-A284-B2B2A9193D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "League.Domain", "League.Domain\League.Domain.csproj", "{935CBEF5-8FE1-46C4-A284-B2B2A9193D05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League.Infra", "League.Infra\League.Infra.csproj", "{7CD1413E-4EE9-4FF1-AB56-5BFD04F7A66D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "League.Infra", "League.Infra\League.Infra.csproj", "{7CD1413E-4EE9-4FF1-AB56-5BFD04F7A66D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League.Api", "League.Api\League.Api.csproj", "{34DEA5D2-704F-4AD6-AB3F-9B8C2B99F200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "League.Api", "League.Api\League.Api.csproj", "{34DEA5D2-704F-4AD6-AB3F-9B8C2B99F200}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-UnitTest", "06-UnitTest", "{3933A9CC-AEAA-454C-B536-1F84424597F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
