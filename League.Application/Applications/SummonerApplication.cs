@@ -50,11 +50,6 @@ namespace League.Application.Applications
                         await _historicDetailsService.GetHistoricDetails(item);
                     hist.Add(historicDetail);
                 }
-
-                List<int> inteiros = new List<int>();
-                inteiros.Add(1);
-                inteiros.Add("");
-
                 return hist;
             }
             catch (Exception)

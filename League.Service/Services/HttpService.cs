@@ -15,17 +15,20 @@ namespace League.Service.Services
         public HttpService()
         {
             httpClient = new HttpClient();
+            httpClient.DefaultRequestHeaders.Add("X-Riot-Token", _riotConfiguration.Token);
+
         }
         public HttpService(IOptions<RiotConfiguration> riotConfiguration)
         {
             _riotConfiguration = riotConfiguration.Value;
 
             httpClient = new HttpClient();
+            httpClient.DefaultRequestHeaders.Add("X-Riot-Token", _riotConfiguration.Token);
+
         }
 
         public async Task<string> Get(string link)
         {
-            httpClient.DefaultRequestHeaders.Add("X-Riot-Token", _riotConfiguration.Token);
             var request = await httpClient.GetAsync(link);
             var result = await request.Content.ReadAsStringAsync();
             return result;
