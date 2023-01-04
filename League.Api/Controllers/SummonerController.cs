@@ -36,7 +36,7 @@ namespace League.Api.Controllers
         {
             try
             {
-                var summoner = await _summonerApplication.GetSummoner(summonerName);
+                var summoner = await _summonerApplication.GetSummonerWithMatchDetails(summonerName);
                 return Ok(summoner);
             }
             catch (Exception e)

@@ -5,6 +5,6 @@ namespace League.Application.Interfaces
 {
     public interface IHistoricDetailsApplication
     {
-        Task<HistoricDetail> GetHistoricDetail(string puuid);
+        Task<HistoricDetail> GetHistoricDetail(string match);
     }
 }

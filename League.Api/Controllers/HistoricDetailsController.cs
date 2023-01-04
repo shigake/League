@@ -11,6 +11,7 @@ namespace League.Api.Controllers
     public class HistoricDetailsController : BaseController
     {
         private readonly IHistoricDetailsApplication _historicApplication;
+
         public HistoricDetailsController(IHistoricDetailsApplication historicApplication)
         {
             _historicApplication = historicApplication;

@@ -3,6 +3,7 @@ using League.Domain.Entities;
 using League.Service.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -34,12 +35,34 @@ namespace League.Application.Applications
                 throw;
             }
         }
-        public async Task<Summoner> GetSummonerWithMatchDetails(string summonerName)
+        public async Task<List<HistoricDetail>> GetSummonerWithMatchDetails(string summonerName)
         {
-            //arrumar
-            return new Summoner();
+            try
+            {
+                //arrumar
+                Summoner jogador = await _summonerService.GetSummoner(summonerName);
+                string[] historic = await _historicService.GetHistoric(jogador.PuuID);
+
+                List<HistoricDetail> hist = new List<HistoricDetail>();
+                foreach (var item in historic)
+                {
+                    HistoricDetail historicDetail =
+                        await _historicDetailsService.GetHistoricDetails(item);
+                    hist.Add(historicDetail);
+                }
+
+                List<int> inteiros = new List<int>();
+                inteiros.Add(1);
+                inteiros.Add("");
+
+                return hist;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
         }
-
-
     }
 }

@@ -17,6 +17,12 @@ namespace League.Application.Applications
             _historicService = historicService;
         }
 
+        public HistoricApplication()
+        {
+
+        }
+
+
         public async Task<string[]> GetHistoric(string puuid)
         {
             try
