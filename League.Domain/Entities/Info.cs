@@ -5,7 +5,7 @@ namespace League.Domain.Entities
     public class Info
     {
         //public Challenges Challenges { get; set; }
-        //public Participant participants { get; set; }
+        public List<Participant> participants { get; set; }
         //public Perks Perks { get; set; }
         //public Root Root { get; set; }
         //public Selection Selection { get; set; }

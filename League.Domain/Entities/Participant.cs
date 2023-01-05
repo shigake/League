@@ -5,7 +5,7 @@
         public int assists { get; set; }
         public int baronKills { get; set; }
         public int bountyLevel { get; set; }
-        public Challenges challenges { get; set; }
+        //public Challenges challenges { get; set; }
         public int champExperience { get; set; }
         public int champLevel { get; set; }
         public int championId { get; set; }
@@ -58,7 +58,7 @@
         public int objectivesStolenAssists { get; set; }
         public int participantId { get; set; }
         public int pentaKills { get; set; }
-        public Perks perks { get; set; }
+        //public Perks perks { get; set; }
         public int physicalDamageDealt { get; set; }
         public int physicalDamageDealtToChampions { get; set; }
         public int physicalDamageTaken { get; set; }

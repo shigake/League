@@ -1,6 +1,7 @@
 ﻿using League.Application.Interfaces;
 using League.Domain.Entities;
 using League.Service.Interfaces;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,7 +43,7 @@ namespace League.Application.Applications
                 //arrumar
                 Summoner jogador = await _summonerService.GetSummoner(summonerName);
                 string[] historic = await _historicService.GetHistoric(jogador.PuuID);
-
+                var x = JsonConvert.SerializeObject(historic);
                 List<HistoricDetail> hist = new List<HistoricDetail>();
                 foreach (var item in historic)
                 {
